@@ -1,0 +1,5 @@
+{
+  "sites": [
+    {"key": "豆瓣", "name": "🔔 A-无外部蜘蛛", "type": 3, "playerType": 2, "api": "csp_Douban", "searchable": 1}
+  ]
+}
