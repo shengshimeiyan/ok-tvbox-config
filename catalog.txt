@@ -1,0 +1,41 @@
+# 2026-01 接口合集实测目录（88个URL逐一实测结果）
+#
+# ★ 一键导入（推荐先测这个）：全配置采集源去重合并，53源，零蜘蛛零闪退风险
+https://cdn.jsdelivr.net/gh/shengshimeiyan/ok-tvbox-config@main/type1-all.json
+#
+# ★ 小哥哥配置全量版（21源）:
+https://cdn.jsdelivr.net/gh/shengshimeiyan/ok-tvbox-config@main/xiaogege-all.json
+#
+# ===== 12个真TVBox配置原始URL（逐个手动导入测试，注意：新蜘蛛源在2.5.0精简版上可能闪退，建议先在手机上试） =====
+# 小哥哥: 21源(采集20/csp1/js0)
+http://47.96.82.41:5188
+# QIST: 151源(采集14/csp104/js25)
+https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json
+# 玄珠: 126源(采集8/csp86/js32)
+https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json
+# 鸟叔: 34源(采集6/csp20/js3)
+https://raw.githubusercontent.com/laozi4vip/JellyZYC/main/niaoshu/tongyong.json
+# 夏夏4k: 43源(采集6/csp28/js6)
+https://11405.kstore.space/xiaye/qk4k.json
+# 高天: 124源(采集6/csp72/js43)
+https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json
+# 高清1080: 31源(采集6/csp16/js5)
+https://11405.kstore.space/xiaye/1080.json
+# 优质: 61源(采集1/csp53/js7)
+https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json
+# 小鱼干: 49源(采集0/csp46/js3)
+http://xhztv.top/dc/小鱼干/api.json
+# 俊佬: 24源(采集0/csp22/js2)
+http://home.jundie.top:81/top98.json
+# 教育1: 5源(采集0/csp5/js0)
+http://box.nihaohezi.com/app/hzjy.json
+# 教育2: 22源(采集0/csp20/js2)
+https://jihulab.com/bhjk1/vip/-/raw/main/vip.json
+#
+# ===== 4个JSON有毛病但TVBox宽松解析可能能吃（可选测试） =====
+# 小何: https://jihulab.com/z-blog/xh2/-/raw/main/t.json
+# 宝盒视界: https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/box原.json
+# 一哥天堂岛: http://ficfac.com/ijia/app.json
+# 春盈: https://cdn09022024.gitlink.org.cn/api/v1/repos/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master&access_token=23b93fc08ea0b7793ba24a7e0cb0041b64929cee
+#
+# ===== 其余：57个挂/超时，gitee系返回423(需登录)，天微七星等返回401(密码)，网盘链接需对应App =====
