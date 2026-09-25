@@ -1,0 +1,249 @@
+# ================= 2026-01 接口合集·完整清单（118个唯一URL，未按我服务器结果过滤，全部保留） =================
+# 用法：点播类逐个填入 OK影视【设置-点播配置-输入添加】；直播类填【直播配置】；网盘类需对应App。
+# 状态是我服务器的测试结果，仅作参考——360资源我这边死、你那边活，以你实测为准！
+# 图例：[活配置]=下载到有效TVBox配置 [活文本]=有内容需细看 [HTML]=返回网页非配置
+#       [挂]=超时/404 [401]=要密码 [423]=gitee锁 [网盘] [直播] [未测]
+#
+# ---------- 头部单列 ----------
+# 1.值波 [挂]
+https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt
+# 2.全聚合 [网盘-需飞猪盘App]
+https://share.feijipan.com/s/QKVrsD8M
+# 3.港台国际 [活文本-3988B]
+https://l.gmbbk.com/upload/26302630.txt
+# 4.小苹果 [活文本-10399B]
+http://gc.gt.tc/o/i/小苹果.txt
+# 5.踏天境强者 [挂-404]
+https://gitee.com/xuyicheng11/wanglin/raw/master/踏天境强者.json
+# 6.jsm(潮哥) [挂-404]
+https://catbox.n13.club/jk/jsm.json
+# 7.ku9 [挂-超时]
+http://ku9.fr.to/ku9/1767651342.txt
+# 8.陆城直播 [直播]
+http://mytv.3d.tc//i/?T=lczb
+# 9.斯玛特直播 [直播]
+https://live.catvod.com/tv.m3u
+# 10.斯玛特点播 [挂-超时]
+https://tvbox.catvod.com/catvod.json
+# 11.港湾 [挂-超时]
+http://pan.wdrjk.top/down.php/aad56aa7a7610097bc103077064f0bcb.txt
+# 12.猫TV [活文本-119KB]
+http://rihou.cc:555/gggg.nzk/
+#
+# ---------- 2026-01 主合集·点播 ----------
+# 13.小何 [活-JSON有毛病,TVBox宽松解析可能能吃]
+https://jihulab.com/z-blog/xh2/-/raw/main/t.json
+# 14.木木 [423-gitee要登录]
+https://gitee.com/bbstudou/tvbo/raw/master/11tv.json
+# 15.裹柳 [挂-404]
+https://fastly.jsdelivr.net/gh/ls125781003/dmtg@master/zy.json
+# 16.巧儿 [挂-超时]
+http://pandown.pro/tvbox/tvbox.json
+# 17.小鱼干 [活配置-49源(46csp)]
+http://xhztv.top/dc/小鱼干/api.json
+# 18.玄珠 [活配置-126源(8采集/86csp)]
+https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json
+# 19.聚玩盒子 [活文本-19KB]
+http://xhztv.top/xhz/
+# 20.摸鱼 [活-但返回HTML非配置(早前实测)]
+http://我不是.摸鱼儿.com
+# 21.肥猫 [未测-已知肥猫.net是活配置但不在本清单]
+http://肥猫.com
+# 22.宝盒 [挂-超时]
+http://mzjk.top/
+# 23.驸马影视 [挂-404]
+http://fmys.top/fmys.json
+# 24.小橙子4K [HTML-返回网页]
+https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json
+# 25.宝盒4K [挂-超时]
+http://宝盒接口.top
+# 26.OK大佬 [挂-DNS不通]
+http://ok321.top/tv
+# 27.饭太硬 [活-但返回非配置(早前实测)]
+http://www.饭太硬.com/tv
+# 28.放牛娃 [挂-超时]
+http://tvbox.王二小放牛娃.top/
+# 29.巧技=当哥 [未测]
+http://cdn.qiaoji8.com/tvbox.json
+# 30.宝盒视界 [活-JSON有毛病,可能能吃]
+https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/box原.json
+# 31.一哥=天堂岛 [活-JSON有毛病,可能能吃]
+http://ficfac.com/ijia/app.json
+# 32.扶摇4K [挂-404]
+http://svipjx.shanhaiguanwu.com/A4K.json
+# 33.瑜豪影视 [挂-404]
+https://gitee.com/pmam/yuhao-video/raw/master/瑜豪影视.json
+# 34.tv家庭 [挂-超时]
+https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=
+# 35.盒子迷 [挂-超时]
+http://盒子迷.top/
+# 36.D佬 [401-要密码]
+https://download.kstore.space/download/2883/nzk/nzk0722.json
+# 37.PG [活-只返回48B疑似占位]
+https://gh.con.sh/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json
+# 38.小米 [挂-404]
+http://www.mpanso.com/小米/DEMO.json
+# 39.俊佬 [活配置-24源(22csp老牌经典)]
+http://home.jundie.top:81/top98.json
+# 40.欧歌A [挂-超时]
+https://tv.nxog.top/m/?&jPi?&LVF
+# 41.万家影视 [挂-超时]
+http://47.108.190.232:666/api/index/store?id=14&appid=95210
+# 42.小虎斑 [挂-超时]
+http://hb.小虎斑.site:25252/
+# 43.神秘大佬 [423-gitee锁]
+https://gitee.com/sydl2/bhmb/raw/master/ygbh.json
+# 44.9877 [挂-404]
+https://9877.kstore.space/AnotherD/api.json
+# 45.教育专线1 [活配置-5源]
+http://box.nihaohezi.com/app/hzjy.json
+# 46.教育专线2 [活配置-22源]
+https://jihulab.com/bhjk1/vip/-/raw/main/vip.json
+# 47.多咪 [挂-超时]
+https://d.kstore.dev/download/4071/api/api.json
+# 48.宇静鸣 [423-gitee锁]
+https://gitee.com/enjoy_5_0/gg/raw/vip/gz.json
+# 49.春盈 [活-JSON有毛病,可能能吃]
+https://cdn09022024.gitlink.org.cn/api/v1/repos/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master&access_token=23b93fc08ea0b7793ba24a7e0cb0041b64929cee
+# 50.蓝天白云 [423-gitee锁]
+https://gitee.com/ltby1/vip/raw/master/蓝天白云.json
+# 51.柒豪4K [挂-超时]
+http://38.165.20.168/柒豪4K.json
+# 52.天神lY [活文本-18KB]
+https://codeberg.org/froggy123/yydf2025/raw/branch/main/api.json
+# 53.4K影视 [423-gitee锁]
+https://gitee.com/zxj77/mao/raw/master/xj.json
+# 54.空空4K [活文本-16KB]
+https://kong88.dpdns.org/4k.json
+# 55.壹米影视 [挂-超时]
+http://xn--hwtam458y.icu/壹米/yimi.json
+# 56.幸福 [挂-超时]
+http://xn--hwtam458y.icu/重庆幸福/hyhr.json
+# 57.天微七星 [401-要密码]
+https://7337.kstore.space/qxys/禁止传播.json
+# 58.小龙短剧 [挂-404]
+https://gitee.com/dxl900109/yyds/raw/master/小龙短剧.json
+# 59.东哥 [423-gitee锁]
+https://gitee.com/dong2274560336/film-and-television-interface/raw/master/fty.json
+# 60.鸟叔 [活配置-34源(6采集/20csp)]
+https://raw.githubusercontent.com/laozi4vip/JellyZYC/main/niaoshu/tongyong.json
+# 61.菜妮丝 [活-但返回HTML非配置(早前实测)]
+https://tv.菜妮丝.top
+# 62.运输车VIP [挂-404]
+http://530.my3v.work/hxck.json
+# 63.影探4K [挂-404]
+http://www.lyyytv.cn/yt/yt.json
+# 64.优质 [活配置-61源(1采集/53csp)]
+https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json
+# 65.绿茶影院 [活-JSON但非TVBox配置]
+http://550.3vcn.work/cbh.json
+# 66.私人影院 [挂-404]
+http://550.3vcn.work/xj.json
+# 67.果冻自用 [423-gitee锁]
+https://gitee.com/laozi4vip/myysjk/raw/master/jkwj/jelly.json
+# 68.龙伊线路 [挂-超时]
+https://龙伊.top
+# 69.夏夏=幸福年年 [活配置-43源(6采集/28csp)]
+https://11405.kstore.space/xiaye/qk4k.json
+# 70.爱吃鬼 [挂-404]
+http://121.40.174.45:1777/2509/爱吃鬼.json
+# 71.花花公子 [挂-超时]
+https://d.kstore.dev/download/12020/t4.json
+# 72.电视魔盒 [挂-404]
+https://chuanshuo.77blog.cn/tv.json
+# 73.金鹰 [活文本-69KB]
+http://550.3vcn.work/wdjyys.json
+# 74.青龙 [423-gitee锁]
+https://gitee.com/yiwu369/6758/raw/master/1.json
+# 75.环宇轩=小脑斧 [401-要密码]
+https://6492.kstore.space/xnf/xnf.json
+# 76.西柚 [401-要密码]
+https://11293.kstore.space/西柚ys.json
+# 77.高天 [活配置-124源(6采集/72csp/43js)]
+https://ghproxy.net/https://raw.githubusercontent.com/debears6/XYQ/master/0821.json
+# 78.星河4K [HTML-返回网页]
+http://116.196.116.76/tv
+# 79.楞牛哥 [挂-404]
+http://lengniuge.cf/yingshi
+# 80.霜辉月明 [挂-超时]
+https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+# 81.QIST [活配置-151源(14采集/104csp/25js)]
+https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json
+# 82.0202 [挂-超时]
+http://150.158.112.123/bb/0202.txt
+# 83.宝盒VIP [活-但只有1B,疑似占位]
+https://3043.kstore.space/bhvip/bh/box.json
+# 84.月亮V [挂-超时]
+https://xn--3lq960d.v.nxog.top/api.php?id=2
+# 85.欧歌B [挂-超时]
+http://tv.nxog.top/m/
+# 86.小哥哥 [活配置-21源(20采集)★最推荐]
+http://47.96.82.41:5188
+# 87.摸鱼UZ影视 [HTML-返回网页]
+http://xn--ihqu10cn4c.xn--v4q818bf34b.com/UZ/DEMO.json
+# 88.喵影视 [挂-超时]
+http://www.meowtv.vip/tvbox.json
+# 89.胜寒 [活文本-23KB]
+https://ghfast.top/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json
+# 90.二哈 [挂-404]
+https://ghfast.top/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
+# 91.戏曲 [未测]
+http://mzrjk.top/戏曲
+# 92.学习 [未测]
+http://mzrjk.top/学习
+# 93.音乐 [未测]
+http://mzrjk.top/音乐
+# 94.官哥 [未测-原文件这里就截断了,URL不完整]
+https://gitlab.com/duomv/dzhipy/-/raw/main/index.
+#
+# ---------- 尾部补充·点播 ----------
+# 95.4k高清 [401-要密码]
+https://11405.kstore.space/xiaye/4k1.json
+# 96.高清1080(免扫少量4k) [活配置-31源(6采集)]
+https://11405.kstore.space/xiaye/1080.json
+# 97.自用测试7337 [挂-404]
+https://7337.kstore.space/kjtv/自用测试.json
+# 98.lfytv [挂-超时]
+http://ok.lfytv.cn/fm.json
+# 99.七星影仓 [HTML-返回网页]
+http://qxyc.cc/自用测试
+# 100.天微 [挂-404]
+https://tvkj.top/DC.txt
+# 101.4K点播gitee [423-gitee锁,文件其实是png伪装]
+https://gitee.com/yimi321/vip/raw/master/vip.png
+# 102.4K点播劲风 [挂-404]
+http://ok.zoho.to/z/劲风
+#
+# ---------- 直播源（填到直播配置，不是点播！） ----------
+# 103.冰茶直播 [直播]
+https://show.188766.xyz/
+# 104.tmxk [直播]
+https://tmxk.pp.ua/smart-cn.m3u
+# 105.IPV6秒播+地方+咪咕+港澳台+CCTV【原文件标注推荐】 [直播]
+http://47.120.41.246:8899/zb.txt
+# 106.jiduo [直播]
+http://kkk.jjjj.jiduo.me/user/tttt/api.txt
+# 107.h6room [直播]
+https://d.h6room.com/frjzb.txt
+# 108.xmbjm [直播]
+https://slink.ltd/https://raw.githubusercontent.com/xmbjm/TV/refs/heads/master/output/user_result.txt
+# 109.港澳台+翡翠台+地方+咪咕【原文件标注推荐】 [直播]
+http://8.138.7.223/live.txt
+# 110.港澳台+咪咕+影视音乐+海外【原文件标注推荐】 [直播]
+https://tv.iill.top/m3u/Gather
+# 111.Guovin m3u(代理) 电影+地方+CCTV+动漫音乐体育秒播【推荐】 [直播]
+https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+# 112.Guovin m3u(raw直连) [直播]
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+# 113.Guovin txt格式(与111/112二选一) [直播]
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+# 114.iptv365 地方+港澳台+电影+卫视 [直播]
+https://live.iptv365.org/live.txt
+# 115.虎芽一起看 [直播]
+https://live.freetv.top/huyayqk.m3u
+# 116.抖渔一起看 [直播]
+https://live.freetv.top/douyuyqk.m3u
+# 117.YY轮播 [直播]
+https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top
+# 118.B站生活娱乐 [直播]
+https://www.goodiptv.club/bililive.m3u
